@@ -1,6 +1,6 @@
 <template>
   <div>
-    <router-view></router-view>
+    视频
   </div>
 </template>
 
@@ -8,5 +8,5 @@
 
 </script>
 
-<style scoped>
+<style lang="less" scoped>
 </style>
